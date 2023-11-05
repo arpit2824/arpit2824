@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Weather App**
 
-- 🌱 I’m currently learning *JAVA**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **arpitsharmaa02@gmail.com**
 
