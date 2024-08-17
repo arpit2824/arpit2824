@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **my skills**
 
 - 🌱 I’m currently learning **Java**
 
